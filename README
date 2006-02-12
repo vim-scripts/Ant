@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1465
+
+Ant vim7 xml data file
+
+Put in 
+
+~/.vim/autoload/xml
+
+Load data with
+
+:XMLns ant
+
+file.
+
